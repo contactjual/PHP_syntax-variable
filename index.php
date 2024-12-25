@@ -20,7 +20,7 @@ echo "Hi, I am ".$first_name." ".$last_name.". My birthday is ".$birth_day.". I 
 
 // or 
 
-echo "Hi, I am $first_name $last_name. My birthday is $birth_day. I am a professsional $professionalty. My laptop brand is $laptop_brand and price $price TK. "; // best practice
+echo "Hi, I am $first_name $last_name. My birthday is $birth_day. I am a professsional $professionalty. My laptop brand is $laptop_brand and price $price TK. "; // best practice only for variables not constant
                                         
 
 
