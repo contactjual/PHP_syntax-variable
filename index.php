@@ -25,6 +25,15 @@ echo "Hi, I am $first_name $last_name. My birthday is $birth_day. I am a profess
 
 
 
+// Mylty value
+
+$x = $y = $z = "multy"; 
+echo $x; // multy
+echo $y; // multy
+echo $z; // multy
+
+
+
 
 // if use $$ sign
 
