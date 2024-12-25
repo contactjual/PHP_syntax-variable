@@ -51,4 +51,31 @@ echo $$naming; // $$naming = $my_first_name = Jual
 # this is also single line comment
 /* this is multy line comment */
 
+
+
+
+
+
+/*
+variable scope ------------------------------------------------
+1. Local - funciton er moddhe
+2. Global
+3. static - function exicution er porew delet hobe na (exmpl)
+*/
+
+function learn_static() {
+    static $x = 0; // function exucution er porew x er value availble thakbe.
+    echo $x;
+    $x++;
+}
+learn_static(); // 0
+learn_static(); // 1
+learn_static(); // 2
+
+
+
+
+
+
+
 ?>
