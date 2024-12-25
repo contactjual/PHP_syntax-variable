@@ -35,4 +35,11 @@ echo $$naming; // $$naming = $my_first_name = Jual
 
 
 
+
+// comment------------------------------
+
+// this is single line comment
+# this is also single line comment
+/* this is multy line comment */
+
 ?>
